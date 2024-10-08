@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vicente Vargas (He/Him/His)
+- I'm a Junior at Central Michigan University majoring in Computer Science, and minoring in Game-Design and Web Development
+- I hope to have a portfolio showcasing my programming skills here!
